@@ -1,20 +1,28 @@
 # Hi, I'm Eurico Santos 🚀
 
 ## 💫 About Me  
-🔹 Transitioning to a career in **Full-Stack Development**, with a strong foundation in **Python**, **React**, and **Django**.  
-🔹 Passionate about technology, problem-solving, and creating robust, scalable web applications.  
-🔹 Actively building projects that showcase modern web development practices and seamless user experiences.  
-🔹 My goal is to grow as a versatile developer, contributing to meaningful projects while continuously expanding my technical expertise.  
+🔹 **Full Stack Developer & Freelancer**, specializing in **Python (Flask, Django), JavaScript (Node, React), and PHP (WordPress, custom plugins)**.  
+🔹 I build **scalable APIs, automation tools, and web applications**, helping businesses improve efficiency.  
+🔹 My expertise lies in **backend development, automation, and system integration**, ensuring secure and high-performance solutions.  
+🔹 While I have frontend experience, my main focus is backend infrastructure and automation.  
+🔹 I am currently available for **freelancing** and open to **full-time opportunities**.  
 
 ---
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eurico-santos-545b57109)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=web&logoColor=white)](https://euricosantos.dev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=web&logoColor=white)](https://esantos-dev.com)  
 
 ---
 
 ## 💻 Tech Stack  
+
+### ⚙️ Backend  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 
 ### 🖥️ Frontend  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
@@ -24,20 +32,17 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-### ⚙️ Backend  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-
 ### 📦 Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 ---
 
@@ -47,12 +52,12 @@
 - Developed a responsive portfolio using **React** to showcase my skills and projects.  
 - Features a sleek design, project filtering, and dynamic content management via a Django backend.  
 - **Technologies**: React, Django, TailwindCSS, PostgreSQL  
-- [Portfolio Link](https://euricosantos.dev)  
+- [Portfolio Link](https://esantos-dev.com)  
 
 ### 🔹 **Weather Data ETL Pipeline**  
 - Built an ETL pipeline to extract, transform, and load weather data from the Open-Meteo API into a database.  
 - **Technologies**: Python, Pandas, SQLite  
-- [GitHub Link](https://github.com/euricosantos-936/weather-etl)  
+- [GitHub Link](https://github.com/EuricoSantos-936/ETL-Pipeline-OpenMeteoApi.git)  
 
 ---
 
