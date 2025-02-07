@@ -1,18 +1,17 @@
 # Hi, I'm Eurico Santos 🚀
+## Backend Developer | Freelancer | Security Enthusiast | SOC & Threat Hunting (Learning)
 
 ## 💫 About Me  
-🔹 **Backend Developer & Freelancer**, specializing in **Python (Flask, Django), JavaScript (Node, React), and PHP (WordPress, custom plugins)**.  
-🔹 I build **scalable APIs, automation tools, and web applications**, helping businesses improve efficiency.  
-🔹 My expertise lies in **backend development, automation, and system integration**, ensuring secure and high-performance solutions.  
-🔹 Recently, I've been expanding my knowledge into **cybersecurity**, focusing on **SOC, Threat Hunting, and incident response**, working to enhance the security of the solutions I develop.  
-🔹 While I have frontend experience, my main focus is backend infrastructure, automation, and security.  
-🔹 I am currently available for **freelancing** and open to **full-time opportunities**.  
+
+🔹 **Aspiring Cybersecurity Professional**, currently transitioning from backend development to cybersecurity. My primary focus is **Security Operations Center (SOC)** and **Digital Forensics & Incident Response (DFIR)**.  
+🔹 I have a strong background in **backend development**, working with **Python (Flask, Django), JavaScript (Node.js), and PHP (WordPress)**, but my current goal is to enter the cybersecurity industry.  
+🔹 I am actively learning and gaining hands-on experience in **SOC monitoring, threat hunting, log analysis, and incident response** through labs and self-study. I work on **SIEM solutions, malware analysis, and security automation** to develop practical skills in the field.  
+🔹 My focus is to transition fully into cybersecurity in the coming months, leveraging my technical expertise in programming, automation, and system security to excel in this field.
 
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eurico-santos-545b57109)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=web&logoColor=white)](https://esantos-dev.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eurico-santos-545b57109)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=web&logoColor=white)](https://esantos-dev.com)  
 
 ---
 
@@ -23,17 +22,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 
-### 🖥️ Frontend  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-### 📦 Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-
 ### 🔐 Cybersecurity & Security Tools  
 ![Wireshark](https://img.shields.io/badge/Wireshark-%233742A0.svg?style=for-the-badge&logo=wireshark&logoColor=white)  ![ELK](https://img.shields.io/badge/ELK-%23000000.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)  ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)  
 
@@ -41,26 +29,23 @@
 
 ## 🚀 Projects  
 
-### 🔹 **Personal Portfolio**  
-- Developed a responsive portfolio using **React** to showcase my skills and projects.  
-- Features a sleek design, project filtering, and dynamic content management via a Django backend.  
-- **Technologies**: React, Django, TailwindCSS, PostgreSQL  
-- [Portfolio Link](https://esantos-dev.com)  
+### 🔹 **SIEM with ELK Stack**  
+- Implemented a **SIEM solution** using the ELK stack on Kali Linux.  
+- Enabled real-time monitoring and alerting for security events.  
 
-### 🔹 **Weather Data ETL Pipeline**  
-- Built an ETL pipeline to extract, transform, and load weather data from the Open-Meteo API into a database.  
-- **Technologies**: Python, Pandas, SQLite  
-- [GitHub Link](https://github.com/EuricoSantos-936/ETL-Pipeline-OpenMeteoApi.git)  
+### 🔹 **Incident Response and Threat Hunting Lab**  
+- Developed a **DFIR lab** to practice malware analysis and threat detection.  
+- Investigated security incidents using **Wireshark, Volatility, and Splunk**.  
 
 ---
 
 ## 🕊️ Certifications  
-- **ISC2 Certified in Cybersecurity (CC)**
-- **INTRODUCTION TO CYBERSECURITY** - Cisco
-- **NETWORKING BASICS** - Cisco
-- **Python Fundamentals** - Einst Technology Training Center  
-- **JavaScript Algorithms and Data Structures** - freeCodeCamp  
-- **Responsive Web Design** - freeCodeCamp  
+- **ISC2 Certified in Cybersecurity (CC)**  
+- **Introduction to Cybersecurity** - Cisco  
+- **Networking Basics** - Cisco  
+- **Qualys Vulnerability Management Foundation**  
+- **SOC Level 1 Training (In Progress)** - TryHackMe
+- **Blue Team Level 1 - BLT1 (Planned)** - Security Blue Team
 
 ---
 
